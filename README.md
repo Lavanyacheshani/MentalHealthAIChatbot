@@ -6,7 +6,7 @@ A Python-based compilation of **rule-based**, **retrieval-based**, and **generat
 
 ---
 
-## 🔧 Updates (2024)
+## 🔧 Updates 
 - ✅ Fixed outdated library and method issues
 - ✅ Added `requirements.txt` for easier dependency installation
 - ⚠️ Ensure you're using **Python 3.8** (or lower) for compatibility with libraries like TensorFlow
