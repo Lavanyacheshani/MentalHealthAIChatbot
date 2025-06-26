@@ -15,7 +15,7 @@ A Python-based compilation of **rule-based**, **retrieval-based**, and **generat
 
 ## 🧠 Motivation
 
-India's 2017 National Mental Health Survey reported that **1 in 7** people suffer from mental health disorders such as depression and anxiety. Nearly **150 million** people need mental health intervention — most without access due to affordability and stigma.
+Sri lanka's 2017 National Mental Health Survey reported that **1 in 7** people suffer from mental health disorders such as depression and anxiety. Nearly **150 million** people need mental health intervention — most without access due to affordability and stigma.
 
 This project aims to make mental health more accessible by providing a foundation for conversational agents that can complement clinicians in therapeutic settings.
 
